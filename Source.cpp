@@ -636,7 +636,7 @@ public:
 
 int main()
 {  
-
+	Person Second();
 
 	/*Person First("Oleg", 18, 82);*/
 
